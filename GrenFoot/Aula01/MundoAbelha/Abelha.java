@@ -16,7 +16,13 @@ public class Abelha extends Actor
     {
         // Add your action code here. 
         move(1);
-        if (Greenfoot.getKey()=="left"){
-            turn(-10);
+        if (Greenfoot.isKeyDown("Left")){
+            turn(-5);
+
+        }
+        if (Greenfoot.isKeyDown("Right")){
+            turn(5);
+
+        }
     }
 }
