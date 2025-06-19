@@ -1,4 +1,4 @@
 nome;idade;salarario;
 Roberval da silva;47;15000.00
-Maria das Dores;38;4500,00
+Maria das Dores;38;4500.00
 Joaquim da Silva;55;1800.00
